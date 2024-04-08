@@ -42,6 +42,10 @@
 
 #### Dominando os Fundamentos Básicos do Python (desafios/codigos)
 
+* Desafio 1: Verificador de planos de internet
+* Desafio 2: Criando uma Lista de Equipamentos
+* Desafio 3: Validando número de telefone
+
 ### Orientação a Objetos e Boas Práticas em Python
 
 #### Introdução à Programação Orientada a Objetos (POO) com Python (cursos/curso14)
