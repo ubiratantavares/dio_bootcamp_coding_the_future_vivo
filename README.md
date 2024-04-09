@@ -60,8 +60,7 @@
 
 #### Modelando o Sistema Bancário em POO com Python (desafios/projetos/projeto04)
 
-* Apresentação do desafio - Modelando o sistema bancário em POO com python: iniciar a modelagem do sistema bancário em POO. Adicionar classes para cliente e 
-as operações bancárias depósito e saque.
+* Apresentação do desafio - Modelando o sistema bancário em POO com python: iniciar a modelagem do sistema bancário em POO. Adicionar classes para cliente e as operações bancárias depósito e saque.
 * Resolução do Desafio - parte 1
 * Resolução do Desafio - parte 2
 
