@@ -50,6 +50,11 @@
 
 #### Introdução à Programação Orientada a Objetos (POO) com Python (cursos/curso14)
 
+* O que é Orientação a Objetos (OO)?
+* Os conceitos de Classes e Objetos
+* Criando seu primeiro programa com POO
+* Construtores e Destrutores
+
 #### Aprendendo o Conceito de Herança com Python (cursos/curso15)
 
 #### Aplicando Encapsulamento em Python (cursos/curso16)
