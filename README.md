@@ -57,7 +57,16 @@
 
 #### Aprendendo o Conceito de Herança com Python (cursos/curso15)
 
+* Herança em POO
+* Conceituando Hernça Simples e Herança Múltipla
+* Hands-on: Herança Simples
+* Hands-on: Herança Múltipla
+
 #### Aplicando Encapsulamento em Python (cursos/curso16)
+
+* O que é encapsulamento?
+* Recursos públicos e privados
+* Propriedades
 
 #### Conhecendo Polimorfismo em Python (cursos/curso17)
 
