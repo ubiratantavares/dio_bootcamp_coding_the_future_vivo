@@ -1,4 +1,4 @@
-from modelos.encapsulamento import *
+from encapsulamento import *
 
 def main():
     

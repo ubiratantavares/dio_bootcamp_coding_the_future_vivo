@@ -1,6 +1,6 @@
 
-from modelos.heranca_multipla import Gato, Ornitorrinco
-from modelos.heranca_simples import Caminhao, Carro, Motocicleta
+from heranca.multipla import Gato, Ornitorrinco
+from heranca.simples import Caminhao, Carro, Motocicleta
 
 def main():
     moto = Motocicleta("preta", "abc-1234", 2)

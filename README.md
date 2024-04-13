@@ -70,7 +70,15 @@
 
 #### Conhecendo Polimorfismo em Python (cursos/curso17)
 
+* O que é polimorfismo?
+* Polimorfismo com herança
+
 #### POO com Python - Interfaces e Classes Abstratas (cursos/curso18)
+
+* Variaveis de classe e variaveis de instância
+* Métodos de classe e estático
+* O que são interfaces
+* Classe abstrata
 
 #### Modelando o Sistema Bancário em POO com Python (desafios/projetos/projeto04)
 
